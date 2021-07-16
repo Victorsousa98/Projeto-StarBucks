@@ -61,3 +61,43 @@ section.sobre{
 	margin-top: 50px;
 }
 
+.social{
+	position: absolute;
+	right: 520px;
+	top: 100px;
+	display: flex;
+	flex-direction: column;
+	
+
+}
+
+.social img{
+	margin: 20px 0;
+	width: 20px;
+}
+
+.texto-sobre{
+	margin-top: 50px;
+}
+
+.texto-sobre h1{
+	font-size: 50px;
+}
+
+.texto-sobre p{
+	margin: 20px 0;
+	color: black;
+	font-size: 14px;
+	font-weight: 500;
+	max-width: 500px;
+}
+
+.texto-sobre button{
+	border: 0;
+	background-color: #017143;
+	color: white;
+	border-radius: 10px;
+	width: 100px;
+	height: 30px;
+
+}
